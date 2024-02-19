@@ -1,16 +1,6 @@
-# instagram_ui
+Instagram Mobile Application Design (Flutter)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1708351126](https://github.com/bahattinercan/instagram_frontend/assets/92323340/1dbad7f1-3aa7-4a8a-966f-3b4c2030decb)
+![Screenshot_1708351129](https://github.com/bahattinercan/instagram_frontend/assets/92323340/0705a34a-4381-45dc-b9fc-fad1d1988397)
+![Screenshot_1708351134](https://github.com/bahattinercan/instagram_frontend/assets/92323340/809edefd-cf3c-4b7a-a3ad-0b85eee609e0)
+![Screenshot_1708351211](https://github.com/bahattinercan/instagram_frontend/assets/92323340/abd1aa82-e379-41c6-a56f-95c485432ca7)
