@@ -79,18 +79,18 @@ class UserAccount extends StatelessWidget {
                     GestureDetector(
                       onTap: domatesFunc,
                       child: Text(
-                        "koko",
+                        "Bahattin",
                         style: TextStyle(fontWeight: FontWeight.bold),
                       ),
                     ),
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 4),
                       child: Text(
-                        "i create app & games",
+                        "Full Stack Developer",
                       ),
                     ),
                     Text(
-                      "m.youtube.com/mitchkoko/",
+                      "https://github.com/bahattinercan",
                       style: TextStyle(color: Colors.blue),
                     )
                   ],
@@ -143,7 +143,7 @@ class UserAccount extends StatelessWidget {
                 ),
               ),
               Container(
-                height: 112,
+                height: 120,
                 padding: const EdgeInsets.only(left: 20, right: 20, top: 5, bottom: 5),
                 child: ListView(
                   scrollDirection: Axis.horizontal,
